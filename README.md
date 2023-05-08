@@ -27,6 +27,10 @@ The website is live at [imaginer.codeberg.page](https://imaginer.codeberg.page)
 └── README.md
 ```
 
+### Stats
+
+You can see the stats for this website at [https://analytics.projectsegfau.lt/imaginer.codeberg.page/](https://analytics.projectsegfau.lt/imaginer.codeberg.page/)
+
 ### About
 
 Based on [bavarder.codeberg.page/](https://bavarder.codeberg.page/)
