@@ -58,6 +58,9 @@
   --dark5: rgb(0,0,0);
   --primary-color: var(--green5); /* Set your project color */
   --borders: var(--light3);
+
+  --content-width: 1120px;
+  --container-width: 810px;
 }
 
 /* Typography */
@@ -88,7 +91,7 @@ body {
   color: #241f31;
   background-color: #f6f5f4;
   /* ⇩⇩ put footer at the bottom for short pages, such as the 404 ⇩⇩ */
-  display: grid;
+  /*display: grid;
   min-height: 100vh;
   grid-template-rows: auto minmax(auto,1fr) auto; /* header, stuff, footer */
 }
@@ -165,10 +168,9 @@ img {
 
 /* Layout */
 .container {
-  width: 80%;
-  margin-left: auto;
-  margin-right: auto;
-  max-width: 720px;
+  margin: auto;
+  width: 75%;
+  max-width: var(--container-width);
 }
 
 /* Singletons */
@@ -218,11 +220,12 @@ img {
 
 /* Footer */
 footer {
+  margin: auto;
+  width: 75%;
   text-align: center;
-  padding: 3em 0 3em;
-  font-size: 1em;
-  margin-top: 4rem;
+  max-width: var(--container-width);
 }
+
 
 header {
   text-align: center;
@@ -235,6 +238,32 @@ header {
 /* Make tables vertically aligned to the top */
 tbody td {
   vertical-align: top;
+}
+
+code,
+pre {
+  box-sizing: border-box;
+}
+
+pre {
+  font-size: 0.95rem;
+  overflow: auto;
+  padding: 20px;
+}
+
+code {
+  box-decoration-break: clone;
+  word-wrap: break-word;
+  font-size: 0.8em;
+}
+
+:not(pre) > code {
+  color: var(--light-text-color);
+  padding: 1px 4px;
+}
+
+pre code {
+  font-size: 0.9em;
 }
 
 /* Github Code Highlighting */
