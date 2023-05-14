@@ -1,3 +1,4 @@
+#
 #, fuzzy
 msgid ""
 msgstr ""
@@ -6,16 +7,13 @@ msgstr ""
 "POT-Creation-Date: 2023-05-14 18:47+0000\n"
 "PO-Revision-Date: 2023-05-14 18:47+0000\n"
 "Last-Translator: 0xMRTT <0xmrtt@proton.me>\n"
-"Language-Team: French <https://translate.codeberg.org/projects/imaginer/"
-"website-index/fr/>\n"
+"Language-Team: French <https://translate.codeberg.org/projects/imaginer/website-index/fr/>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: ENCODING\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 4.17\n"
-
-#
 
 #: content/_index.md:block 1 (header)
 msgid "Imaginer"
@@ -26,8 +24,8 @@ msgid ""
 "[Codeberg](https://codeberg.org/Imaginer/Imaginer) "
 "[Github](https://codeberg.org/Bavarder/Bavarder)"
 msgstr ""
-"[Codeberg](https://codeberg.org/Imaginer/Imaginer) [Github](https://codeberg."
-"org/Bavarder/Bavarder)"
+"[Codeberg](https://codeberg.org/Imaginer/Imaginer) "
+"[Github](https://codeberg.org/Bavarder/Bavarder)"
 
 #: content/_index.md:block 3 (paragraph)
 msgid "Imagine with AI"
@@ -38,8 +36,8 @@ msgid ""
 "![](https://codeberg.org/Imaginer/Imaginer/raw/branch/master/data/screenshots/avocado-"
 "armchair.png)"
 msgstr ""
-"![](https://codeberg.org/Imaginer/Imaginer/raw/branch/master/data/"
-"screenshots/avocado-armchair.png)"
+"![](https://codeberg.org/Imaginer/Imaginer/raw/branch/master/data/screenshots/avocado-"
+"armchair.png)"
 
 #: content/_index.md:block 5 (header)
 msgid "Installation"
@@ -108,8 +106,8 @@ msgid ""
 "The [GNOME Code of Conduct](https://wiki.gnome.org/Foundation/CodeOfConduct)"
 " is applicable to this project"
 msgstr ""
-"Le [code de conduite GNOME](https://wiki.gnome.org/Foundation/CodeOfConduct) "
-"s'applique à ce projet"
+"Le [code de conduite GNOME](https://wiki.gnome.org/Foundation/CodeOfConduct)"
+" s'applique à ce projet"
 
 #: content/_index.md:block 23 (header)
 msgid "Translate"
@@ -121,9 +119,9 @@ msgid ""
 "status](https://translate.codeberg.org/widgets/imaginer/-/imaginer/multi-"
 "auto.svg)](https://translate.codeberg.org/engage/imaginer/)"
 msgstr ""
-"[![Statut de la traduction](https://translate.codeberg.org/widgets/ imaginer/"
-"-/ imaginer/multi-auto.svg)](https://translate.codeberg.org/engage/ imaginer/"
-")"
+"[![Statut de la traduction](https://translate.codeberg.org/widgets/ "
+"imaginer/-/ imaginer/multi-auto.svg)](https://translate.codeberg.org/engage/"
+" imaginer/)"
 
 #: content/_index.md:block 25 (paragraph)
 msgid ""
