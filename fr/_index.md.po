@@ -1,0 +1,166 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-05-14 18:47+0000\n"
+"PO-Revision-Date: 2023-05-14 18:47+0000\n"
+"Last-Translator: 0xMRTT <0xmrtt@proton.me>\n"
+"Language-Team: French <https://translate.codeberg.org/projects/imaginer/"
+"website-index/fr/>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: ENCODING\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 4.17\n"
+
+#
+
+#: content/_index.md:block 1 (header)
+msgid "Imaginer"
+msgstr "Imaginer"
+
+#: content/_index.md:block 2 (paragraph)
+msgid ""
+"[Codeberg](https://codeberg.org/Imaginer/Imaginer) "
+"[Github](https://codeberg.org/Bavarder/Bavarder)"
+msgstr ""
+"[Codeberg](https://codeberg.org/Imaginer/Imaginer) [Github](https://codeberg."
+"org/Bavarder/Bavarder)"
+
+#: content/_index.md:block 3 (paragraph)
+msgid "Imagine with AI"
+msgstr "Imaginer avec l'IA"
+
+#: content/_index.md:block 4 (paragraph)
+msgid ""
+"![](https://codeberg.org/Imaginer/Imaginer/raw/branch/master/data/screenshots/avocado-"
+"armchair.png)"
+msgstr ""
+"![](https://codeberg.org/Imaginer/Imaginer/raw/branch/master/data/"
+"screenshots/avocado-armchair.png)"
+
+#: content/_index.md:block 5 (header)
+msgid "Installation"
+msgstr "Installation"
+
+#: content/_index.md:block 6 (header)
+msgid "Flatpak"
+msgstr "Flatpak"
+
+#: content/_index.md:block 7 (header)
+msgid "Flathub"
+msgstr "Flathub"
+
+#: content/_index.md:block 8 (paragraph)
+msgid ""
+"You can either use your GNOME Software and search for \"Imaginer\" or you "
+"can run"
+msgstr ""
+"Vous pouvez soit utiliser GNOME Logiciel et rechercher \"Imaginer\" ou vous "
+"pouvez exécuter"
+
+#: content/_index.md:block 10 (header)
+msgid "From Source"
+msgstr "Depuis les Sources"
+
+#: content/_index.md:block 11 (paragraph)
+msgid "Clone the repo and run `flatpak-builder`"
+msgstr "Clonez le référentiel et exécutez `flatpak-builder`"
+
+#: content/_index.md:block 13 (header)
+msgid "Archlinux"
+msgstr "Archlinux"
+
+#: content/_index.md:block 14 (paragraph)
+msgid "Imaginer is available in the AUR. Just use your favourite aur helper!"
+msgstr ""
+"Imaginer est disponible dans l'AUR. Utilisez simplement votre assistant aur "
+"préféré !"
+
+#: content/_index.md:block 16 (header)
+msgid "NixOS"
+msgstr "NixOS"
+
+#: content/_index.md:block 17 (paragraph)
+msgid "Imaginer is available in Nixpkgs Unstable."
+msgstr "Imaginer est disponible dans Nixpkgs Unstable."
+
+#: content/_index.md:block 19 (header)
+msgid "Help"
+msgstr "Aide"
+
+#: content/_index.md:block 20 (unordered list)
+msgid "[OpenAI](/help/openai)"
+msgstr "[OpenAI](/help/openai)"
+
+#: content/_index.md:block 20 (unordered list)
+msgid "[HuggingFace](/help/huggingface)"
+msgstr "[HuggingFace](/help/huggingface)"
+
+#: content/_index.md:block 21 (header)
+msgid "Contribute"
+msgstr "Contribuer"
+
+#: content/_index.md:block 22 (paragraph)
+msgid ""
+"The [GNOME Code of Conduct](https://wiki.gnome.org/Foundation/CodeOfConduct)"
+" is applicable to this project"
+msgstr ""
+"Le [code de conduite GNOME](https://wiki.gnome.org/Foundation/CodeOfConduct) "
+"s'applique à ce projet"
+
+#: content/_index.md:block 23 (header)
+msgid "Translate"
+msgstr "Traduire"
+
+#: content/_index.md:block 24 (paragraph)
+msgid ""
+"[![Translation "
+"status](https://translate.codeberg.org/widgets/imaginer/-/imaginer/multi-"
+"auto.svg)](https://translate.codeberg.org/engage/imaginer/)"
+msgstr ""
+"[![Statut de la traduction](https://translate.codeberg.org/widgets/ imaginer/"
+"-/ imaginer/multi-auto.svg)](https://translate.codeberg.org/engage/ imaginer/"
+")"
+
+#: content/_index.md:block 25 (paragraph)
+msgid ""
+"You can translate Imaginer using [Codeberg "
+"Translate](https://translate.codeberg.org/engage/imaginer/)"
+msgstr ""
+"Vous pouvez traduire Imaginer en utilisant [Codeberg "
+"Translate](https://translate.codeberg.org/engage/imaginer/)"
+
+#: content/_index.md:block 26 (header)
+msgid "Mirrors"
+msgstr "Mirroirs"
+
+#: content/_index.md:block 27 (unordered list)
+msgid "[GitHub](https://github.com/ImaginerApp/Imaginer)"
+msgstr "[GitHub](https://github.com/ImaginerApp/Imaginer)"
+
+#: content/_index.md:block 27 (unordered list)
+msgid "[Codeberg](https://github.com/Imaginer/Imaginer)"
+msgstr "[Codeberg](https://github.com/Imaginer/Imaginer)"
+
+#: content/_index.md:block 28 (header)
+msgid "See also"
+msgstr "Voir Aussi"
+
+#: content/_index.md:block 29 (header)
+msgid "Bavarder: Chit-Chat with AI"
+msgstr "Bavarder : Bavarder avec l'IA"
+
+#: content/_index.md:block 30 (paragraph)
+msgid "A tool for chatting with diverse AI"
+msgstr "Un outil pour discuter avec diverses IA"
+
+#: content/_index.md:block 31 (unordered list)
+msgid "https://github.com/Bavarder/Bavarder"
+msgstr "https://github.com/Bavarder/Bavarder"
+
+#: content/_index.md:block 31 (unordered list)
+msgid "https://codeberg.org/Bavarder/Bavarder"
+msgstr "https://codeberg.org/Bavarder/Bavarder"

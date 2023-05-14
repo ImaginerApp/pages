@@ -1,0 +1,136 @@
+#
+msgid ""
+msgstr ""
+
+#: _index.md:block 1 (header)
+msgid "Imaginer"
+msgstr ""
+
+#: _index.md:block 2 (paragraph)
+msgid ""
+"[Codeberg](https://codeberg.org/Imaginer/Imaginer) "
+"[Github](https://codeberg.org/Bavarder/Bavarder)"
+msgstr ""
+
+#: _index.md:block 3 (paragraph)
+msgid "Imagine with AI"
+msgstr ""
+
+#: _index.md:block 4 (paragraph)
+msgid ""
+"![](https://codeberg.org/Imaginer/Imaginer/raw/branch/master/data/screenshots/avocado-"
+"armchair.png)"
+msgstr ""
+
+#: _index.md:block 5 (header)
+msgid "Installation"
+msgstr ""
+
+#: _index.md:block 6 (header)
+msgid "Flatpak"
+msgstr ""
+
+#: _index.md:block 7 (header)
+msgid "Flathub"
+msgstr ""
+
+#: _index.md:block 8 (paragraph)
+msgid ""
+"You can either use your GNOME Software and search for \"Imaginer\" or you "
+"can run"
+msgstr ""
+
+#: _index.md:block 10 (header)
+msgid "From Source"
+msgstr ""
+
+#: _index.md:block 11 (paragraph)
+msgid "Clone the repo and run `flatpak-builder`"
+msgstr ""
+
+#: _index.md:block 13 (header)
+msgid "Archlinux"
+msgstr ""
+
+#: _index.md:block 14 (paragraph)
+msgid "Imaginer is available in the AUR. Just use your favourite aur helper!"
+msgstr ""
+
+#: _index.md:block 16 (header)
+msgid "NixOS"
+msgstr ""
+
+#: _index.md:block 17 (paragraph)
+msgid "Imaginer is available in Nixpkgs Unstable."
+msgstr ""
+
+#: _index.md:block 19 (header)
+msgid "Help"
+msgstr ""
+
+#: _index.md:block 20 (unordered list)
+msgid "[OpenAI](/help/openai)"
+msgstr ""
+
+#: _index.md:block 20 (unordered list)
+msgid "[HuggingFace](/help/huggingface)"
+msgstr ""
+
+#: _index.md:block 21 (header)
+msgid "Contribute"
+msgstr ""
+
+#: _index.md:block 22 (paragraph)
+msgid ""
+"The [GNOME Code of Conduct](https://wiki.gnome.org/Foundation/CodeOfConduct)"
+" is applicable to this project"
+msgstr ""
+
+#: _index.md:block 23 (header)
+msgid "Translate"
+msgstr ""
+
+#: _index.md:block 24 (paragraph)
+msgid ""
+"[![Translation "
+"status](https://translate.codeberg.org/widgets/imaginer/-/imaginer/multi-"
+"auto.svg)](https://translate.codeberg.org/engage/imaginer/)"
+msgstr ""
+
+#: _index.md:block 25 (paragraph)
+msgid ""
+"You can translate Imaginer using [Codeberg "
+"Translate](https://translate.codeberg.org/engage/imaginer/)"
+msgstr ""
+
+#: _index.md:block 26 (header)
+msgid "Mirrors"
+msgstr ""
+
+#: _index.md:block 27 (unordered list)
+msgid "[GitHub](https://github.com/ImaginerApp/Imaginer)"
+msgstr ""
+
+#: _index.md:block 27 (unordered list)
+msgid "[Codeberg](https://github.com/Imaginer/Imaginer)"
+msgstr ""
+
+#: _index.md:block 28 (header)
+msgid "See also"
+msgstr ""
+
+#: _index.md:block 29 (header)
+msgid "Bavarder: Chit-Chat with AI"
+msgstr ""
+
+#: _index.md:block 30 (paragraph)
+msgid "A tool for chatting with diverse AI"
+msgstr ""
+
+#: _index.md:block 31 (unordered list)
+msgid "https://github.com/Bavarder/Bavarder"
+msgstr ""
+
+#: _index.md:block 31 (unordered list)
+msgid "https://codeberg.org/Bavarder/Bavarder"
+msgstr ""
