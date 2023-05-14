@@ -1,0 +1,29 @@
+#
+msgid ""
+msgstr ""
+
+#: content/help/huggingface.md:block 1 (header)
+msgid "Hugging Face"
+msgstr ""
+
+#: content/help/huggingface.md:block 2 (paragraph)
+msgid "A token is not necessary, it allow you to have a bigger rate limit"
+msgstr ""
+
+#: content/help/huggingface.md:block 3 (unordered list)
+msgid "Create an account on [HuggingFace](https://huggingface.co)"
+msgstr ""
+
+#: content/help/huggingface.md:block 3 (unordered list)
+msgid ""
+"Follow the [documentation](https://huggingface.co/docs/hub/security-tokens) "
+"for getting an user access token"
+msgstr ""
+
+#: content/help/huggingface.md:block 3 (unordered list)
+msgid "Use the generated token in the API key entry"
+msgstr ""
+
+#: content/help/huggingface.md:block 4 (paragraph)
+msgid "{{< rawhtml >}}"
+msgstr ""

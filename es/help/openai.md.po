@@ -1,0 +1,18 @@
+#
+msgid ""
+msgstr ""
+
+#: content/help/openai.md:block 1 (header)
+msgid "OpenAI"
+msgstr ""
+
+#: content/help/openai.md:block 2 (paragraph)
+msgid ""
+"The OpenAI API uses API keys for authentication. Visit your [API Keys "
+"page](https://platform.openai.com/account/api-keys) to retrieve the API key "
+"you'll use in your requests."
+msgstr ""
+
+#: content/help/openai.md:block 3 (paragraph)
+msgid "{{< rawhtml >}}"
+msgstr ""
